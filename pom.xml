@@ -4,6 +4,9 @@
   <groupId>demo</groupId>
   <artifactId>hjh</artifactId>
   <packaging>war</packaging>
+  <properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>
+</properties>
   <version>0.0.1-SNAPSHOT</version>
   <name>hjh Maven Webapp</name>
   <url>http://maven.apache.org</url>
